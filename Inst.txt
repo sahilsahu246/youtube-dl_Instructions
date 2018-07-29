@@ -1,0 +1,12 @@
+Instruction to download the entire playlist from Youtube.
+Go to " https://youtube-dl.org/ " and select the " youtube-dl.exe " link.
+This will download the file.Download and save it in a particular location.
+Now,
+
+1.)open cmd in your windows.
+2.)Change working directory to the folder having youtube-dl.exe through cmd.
+3.)type " youtube-dl.exe <Formatting_Options(Optional)> <playlist_URL> ".
+4.)this application will automatically download all the videos in the folder the application is present.
+
+you can also chose the video quality and do some more settings from its options " https://github.com/sahilsahu246/youtube-dl_Instructions "
+See the readme.md file.
